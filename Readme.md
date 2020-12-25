@@ -1,6 +1,5 @@
 # Schedule #
 
-[![Build Status](https://travis-ci.org/fireqong/schedule.svg?branch=master)](https://travis-ci.org/fireqong/schedule)
 [![GoDoc](https://godoc.org/github.com/fireqong/schedule?status.svg)](https://godoc.org/github.com/fireqong/schedule)
 [![Go Report](https://goreportcard.com/badge/github.com/fireqong/schedule)](https://goreportcard.com/report/github.com/fireqong/schedule)
 
